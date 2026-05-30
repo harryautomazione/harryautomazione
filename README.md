@@ -56,12 +56,13 @@ I specialize in designing and developing **resilient, production-grade data extr
 ## 📈 GitHub Stats & Activities
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harryautomazione&show_icons=true&theme=tokyonight&count_private=true" alt="Harry's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harryautomazione&theme=tokyonight" alt="Harry's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryautomazione&layout=compact&theme=tokyonight" alt="Harry's Top Languages" />
+  <img src="https://github-profile-trophies.vercel.app/?username=harryautomazione&theme=tokyonight" alt="Harry's GitHub Trophies" />
 </p>
+
 
 ---
 
