@@ -1,17 +1,17 @@
-# Harry (harryautomazione) 👋
+# Enrico (harryautomazione) 👋
 
-### 🐍 Python Web Scraping & Data Automation Engineer | Open-Source Contributor
+### 🐍 Full-Stack Software Engineer | Automations & Integrations | Open-Source Contributor
 
-I specialize in designing and developing **resilient, production-grade data extraction pipelines**, workflow automations, and robust data infrastructures. I bridge the gap between stealth backend scraping and clean, high-fidelity frontend dashboards to make data actionable and valuable.
+I specialize in designing and developing **production-grade web applications, automated data pipelines**, and API integrations. I build resilient systems that bridge the gap between complex backend data flows and intuitive front-end interfaces, turning raw data into actionable business intelligence.
 
 ---
 
 ## 🚀 Core Expertise & Focus
 
-*   **Stealth Web Scraping**: Designing scraping systems that bypass advanced anti-bot protections (Cloudflare, Akamai, CAPTCHAs, Cloudfront) using TLS fingerprinting, headless browser clustering, and residential proxy rotation.
-*   **Data Pipelines & Automation**: Parsing, cleaning, and structuring massive raw datasets into optimized databases (SQLite, PostgreSQL) or business-ready formats (CSV, Excel, JSON).
+*   **Full-Stack Development**: Building end-to-end web applications and Micro-SaaS products focusing on clean UI/UX and scalable serverless architectures.
+*   **Data Engineering & Cloud Extraction**: Designing robust, scalable data gathering systems (ETL). Experienced in developing and publishing containerized automation APIs (Actors) on the global **Apify** platform.
+*   **API Integrations & Middleware**: Creating seamless, automated communication between decoupled platforms (e-commerce, CRMs, internal tools) leveraging modern REST/GraphQL APIs.
 *   **Open-Source Contributions**: Contributed to high-scale commercial software. Active contributor to **[Expensify App](https://github.com/Expensify/App)**, working on large-scale React Native and TypeScript codebases.
-*   **Micro-SaaS & Local-First Tools**: Creating lightweight, cost-effective serverless solutions (like **[StockSync Lite](https://github.com/harryautomazione/stocksync-lite)** for automated Shopify & eBay inventory sync).
 
 ---
 
@@ -24,12 +24,12 @@ I specialize in designing and developing **resilient, production-grade data extr
       <br />Python
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br />JavaScript
-    </td>
-    <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       <br />TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br />JavaScript
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React / Native" />
@@ -46,10 +46,25 @@ I specialize in designing and developing **resilient, production-grade data extr
   </tr>
 </table>
 
-### Enterprise Data Mining Utilities:
-*   **Automation Frameworks**: Playwright, Selenium, Scrapy, BeautifulSoup, Puppeteer.
-*   **Security & Stealth Evasion**: TLS Fingerprinting, Cloudflare Evasion, Custom Request Headers, Residential Proxy Management.
-*   **DevOps & Workflow**: GitHub Actions, Docker, Serverless Functions, Vercel/Netlify.
+### Engineering & Data Utilities:
+*   **Frameworks & Automation**: React, React Native, Apify SDK, Playwright, Node.js automation.
+*   **Architecture & Reliability**: Serverless Functions (Vercel/Netlify), Exponential Backoff strategies, Distributed Task Queues.
+*   **DevOps & Workflow**: GitHub Actions, Docker, Cloud Containerization.
+
+---
+
+## 📂 Featured Projects
+
+### 🔄 [StockSync Lite](https://github.com/harryautomazione/stocksync-lite) (B2B Micro-SaaS)
+A lightweight, local-first web application that synchronizes product stock levels in real-time between Shopify and eBay.
+*   **Unique Feature**: Integrates a dynamic **Buffer Stock (Safety Stock)** system to prevent double selling and protect seller account ratings.
+*   **Tech Stack**: HTML5, CSS3 Glassmorphism, Vanilla ES6 JavaScript, Vercel Serverless Functions.
+
+### ☁️ Commercial Cloud Data APIs (Published on Apify)
+Developed and published production-grade extraction APIs (Actors) for business intelligence:
+*   📈 **[Flashscore Elite Stats](https://apify.com/harry.automazione/flashscore-elite-stats)**: Premium football data factory extracting Expected Goals (xG) and deep match metrics for predictive analytics.
+*   🏢 **[BuiltIn Tech-Stack Enricher](https://apify.com/harry.automazione/builtin-tech-stack-enricher)**: B2B Lead Generation tool extracting company technology stacks and hiring intent.
+*   🛒 **[Subito.it Universal Scraper](https://apify.com/harry.automazione/subito-scraper)**: Real-time classified listings extraction for real estate, motors, and e-commerce.
 
 ---
 
@@ -63,22 +78,11 @@ I specialize in designing and developing **resilient, production-grade data extr
   <img src="https://github-profile-trophies.vercel.app/?username=harryautomazione&theme=tokyonight" alt="Harry's GitHub Trophies" />
 </p>
 
-
----
-
-## 📂 Featured Projects
-
-### 🔄 [StockSync Lite](https://github.com/harryautomazione/stocksync-lite) (B2B Micro-SaaS)
-A lightweight, local-first web application that synchronizes product stock levels in real-time between Shopify and eBay.
-*   **Unique Feature**: Integrates a dynamic **Buffer Stock (Safety Stock)** system to prevent double selling and protect seller account ratings from eBay suspensions.
-*   **Tech Stack**: HTML5, CSS3 Glassmorphism, Vanilla ES6 JavaScript, Vercel Serverless Functions (Node.js).
-*   **Running Cost**: $0.00/month (Serverless & Local-first architecture).
-
 ---
 
 ## 💬 Connect with Me
 
-If you need resilient data extraction pipelines, custom API integrations, or lightweight automation tools, feel free to reach out:
+If you need resilient data pipelines, custom API integrations, or full-stack web applications, feel free to reach out:
 
 *   🌐 **GitHub**: [github.com/harryautomazione](https://github.com/harryautomazione)
-*   💼 **Available for**: Technical consulting, automation workflows, and Micro-SaaS development.
+*   💼 **Available for**: Technical consulting, product development, and automation workflows.
